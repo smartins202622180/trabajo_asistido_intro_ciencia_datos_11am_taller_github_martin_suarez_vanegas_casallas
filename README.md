@@ -10,7 +10,7 @@
 
 **Introducción**
 
-Nate Silver es un licenciado en economía de formación, sin embargo se convirtió en uno de los pioneros de la ciencia de datos aplicada y es uno de los analistas cuantitativos más reconocidos del mundo del deporte. *PECOTA*, uno de sus proyectos mas reconocidos, es un modelo matemático/informático que utiliza reglas lógicas y datos históricos para proyectar, anticipar o calcular resultados futuros, este fue desarrollado en 2003 para *Baseball Prospectus* basado en la sabermetría, que es el análisis estadístico riguroso del béisbol enfocado en predecir el rendimiento futuro, el desarrollo y las carreras de los jugadores de la MLB.
+Nate Silver es un licenciado en economía de formación, sin embargo se convirtió en uno de los pioneros de la ciencia de datos aplicada y es uno de los analistas cuantitativos más reconocidos del mundo del deporte. *PECOTA* (*Player Empirical Comparison and Optimization Test Algorithm*), uno de sus proyectos mas reconocidos, es un modelo matemático/informático que utiliza reglas lógicas y datos históricos para proyectar, anticipar o calcular resultados futuros, este fue desarrollado en 2003 para *Baseball Prospectus* basado en la sabermetría, que es el análisis estadístico riguroso del béisbol enfocado en predecir el rendimiento futuro, el desarrollo y las carreras de los jugadores de la MLB.
 
 **Acerca del proyecto**
 
@@ -24,9 +24,13 @@ El proyecto llevado a cabo por Nate Silver demostró que el agrupamiento por sim
 
 El proyecto *PECOTA* demostró la viabilidad de la ciencia de datos en la gestión deportiva al predecir con éxito el surgimiento de jóvenes promesas y anticipar el rendimiento de equipos catalogados como débiles por los modelos convencionales, asi transformando la evaluación y la toma de decisiones financieras en el béisbol profesional.
 
+**Referencias**
+
+> https://magazine.uchicago.edu/0878/features/nate_silver.shtml
+
 <div align="center">
   
->*PECOTA*
+*Player Empirical Comparison and Optimization Test Algorithm*
 
 1
 </div>
